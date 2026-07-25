@@ -1,33 +1,23 @@
- # Hi, I'm Hana 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=61AFEF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Hana+👋;Web+Developer+%7C+DSA+Solver;CTF+Enthusiast+🧩" alt="Typing SVG" />
+</h1>
 
-A web development enthusiast who loves building interactive web applications, solving DSA problems, and playing CTFs for fun!
-
----
-
-### 💻 Tech Stack & Tools
-
-**Languages:**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+<p align="center">
+  <a href="https://hanna-s-portfolio-xi.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
+  </a>
 </p>
 
-**Web Development:**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+<p align="center">
+  <i>Computer Science Student | Web Developer | Competitive Programmer</i>
 </p>
 
 ---
 
-### 🚀 What I'm Up To
-- 🌐 Building modern, responsive web apps using **HTML, CSS, & JS**.
-- 🧩 Solving problems on **LeetCode** & **Codeforces**.
-- 🚩 Playing **picoCTF** challenges for fun!
+### 🌟 About Me
 
----
-
-### 📊 Coding Stats
-![Hana's LeetCode Stats](https://leetcode-stats-api.herokuapp.com/suyamode?theme=dark)
+```text
+├── 🎓 CS Undergrad studying Computer Science
+├── 🌐 Focus: Building clean, responsive, and user-centric Web Applications
+├── 🧩 Passion: Solving Data Structures & Algorithms problems 
+└── 🚩 Playground: CTF challenges on picoCTF (for the fun of security puzzles!)
