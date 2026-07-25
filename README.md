@@ -13,7 +13,7 @@
   <a href="https://github.com/suyamode">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
-  <a href="https://leetcode.com/suyamode/">
+  <a href="https://leetcode.com/u/hanichoo/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge"/>
   </a>
 </p>
@@ -105,16 +105,16 @@ When I'm away from the keyboard, I'm usually one of these four things:
 ## 📊 Stats
 
 <p align="center">
-  <a href="https://leetcode.com/suyamode/">
-    <img src="https://leetcode-stats-api.herokuapp.com/suyamode?theme=dark" alt="LeetCode Stats" width="48%" />
+  <a href="https://leetcode.com/u/hanichoo/">
+    <img src="https://leetcard.jacoblin.cool/hanichoo?theme=dark&font=Baloo%202&border=false" alt="LeetCode Stats" width="48%" />
   </a>
   <a href="https://github.com/suyamode">
-    <img src="https://github-readme-stats.vercel.app/api?username=suyamode&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+    <img src="https://github-stats-extended.vercel.app/api?username=suyamode&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyamode&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=suyamode&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
 </p>
 
 > 🌱 New to GitHub and just getting started — check back soon as this grows!
@@ -142,7 +142,7 @@ When I'm away from the keyboard, I'm usually one of these four things:
   <a href="https://github.com/suyamode">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/suyamode/">
+  <a href="https://leetcode.com/u/hanichoo/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
