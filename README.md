@@ -118,7 +118,7 @@ When I'm away from the keyboard, I'm usually one of these four things:
 </p>
 
 > 🌱 New to GitHub and just getting started — check back soon as this grows!
-
+> Current streak: [![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME)](https://git.io/streak-stats)
 ---
 
 ## 💭 Quote I Live By
