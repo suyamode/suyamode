@@ -107,8 +107,7 @@ When I'm away from the keyboard, I'm usually one of these four things:
 
 ---
 
-#### **Activity Graph**
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=suyamode&theme=tokyonight&hide_border=true)
+ 
 
  
 
