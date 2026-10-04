@@ -91,6 +91,25 @@ When I'm away from the keyboard, I'm usually one of these four things:
 
 ## 📊 Stats & 🔥 Git Streaks
 
+#### **GitHub Streak Counter**
+[![GitHub Streak](https://streak-stats.demolab.com/?user=suyamode&theme=tokyonight&hide_border=true&fire=dd2727)](https://git.io/streak-stats)
+
+---
+
+#### **Overview Stats**
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suyamode&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/suyamode)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/hanichoo?theme=dark&font=Baloo%202&border=false)](https://leetcode.com/u/hanichoo/)
+
+---
+
+#### **Most Used Languages**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suyamode&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+#### **Activity Graph**
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=suyamode&theme=tokyonight&hide_border=true)
+
  
 
 
