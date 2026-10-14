@@ -135,4 +135,10 @@ When I'm away from the keyboard, I'm usually one of these four things:
 
 ---
 
-## 📬 Let's Connect!
+ ## 📬 Let's Connect!
+
+- 📍 **Location:** Addis Ababa
+- 📧 **Email:** [hanabirhanuaragaw@gmail.com](mailto:hanabirhanuaragaw@gmail.com)
+- 🐙 **GitHub:** [github.com/suyamode](https://github.com/suyamode)
+- 💼 **LinkedIn:** [linkedin.com/in/hana-birhanu-8439893b7](https://www.linkedin.com/in/hana-birhanu-8439893b7)
+- 💻 **LeetCode:** [leetcode.com/u/hanichoo](https://leetcode.com/u/hanichoo/)
