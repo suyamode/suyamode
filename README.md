@@ -97,7 +97,7 @@ When I'm away from the keyboard, I'm usually one of these four things:
 ---
 
 #### **Overview Stats**
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suyamode&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/suyamode)
+ 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/hanichoo?theme=dark&font=Baloo%202&border=false)](https://leetcode.com/u/hanichoo/)
 
 ---
