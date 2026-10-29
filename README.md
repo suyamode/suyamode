@@ -96,7 +96,7 @@ When I'm away from the keyboard, I'm usually one of these four things:
 
 ---
 
-#### **Overview Stats**
+#### **Leetcode Stats**
  
 [![LeetCode Stats](https://leetcard.jacoblin.cool/hanichoo?theme=dark&font=Baloo%202&border=false)](https://leetcode.com/u/hanichoo/)
 
