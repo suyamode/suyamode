@@ -125,7 +125,7 @@ When I'm away from the keyboard, I'm usually one of these four things:
 
 #### **Contribution Activity Graph:**
 
----
+---![Contribution Graph](https://gitcolors.vercel.app/api/graph?username=suyamode&theme=orange)
 
 ## 💭 Quote I Live By
 
