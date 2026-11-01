@@ -92,7 +92,7 @@ When I'm away from the keyboard, I'm usually one of these four things:
 ## 📊 Stats & 🔥 Git Streaks
 
 #### **GitHub Streak Counter**
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suyamode&theme=orange)](https://git.io/streak-stats)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suyamode&theme=synthwave)](https://git.io/streak-stats)
 
 ---
 
