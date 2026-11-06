@@ -103,9 +103,7 @@ When I'm away from the keyboard, I'm usually one of these four things:
 ---
 
 #### **Most Used Languages**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suyamode&layout=compact&theme=tokyonight&hide_border=true)
-
----
+ ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=suyamode&layout=compact&theme=tokyonight&hide_border=true)
 
  
 
